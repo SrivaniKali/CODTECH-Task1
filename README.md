@@ -28,3 +28,11 @@ Basic error handling for division by zero.
 Simple command-line interface (CLI) for user interaction.
 
 Objective: Provide a practical project for beginners to learn fundamental Python concepts such as variables, data types, functions, conditionals, loops, and basic error handling.
+
+Key Insights
+
+*Understanding Arithmetic Operations
+
+*Handling User Input and Output
+
+*Problem-Solving Skills Enhancement
